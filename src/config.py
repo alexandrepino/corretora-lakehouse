@@ -44,3 +44,5 @@ FONTES_BRONZE = [
     ('clientes', 'sintetico/clientes', 'json', {}),
     ('operacoes', 'sintetico/operacoes', 'json', {}),
 ]
+
+CODIGOS_CRIPTO = ['BTC', 'ETH', 'LTC', 'XRP', 'DOGE', 'SOL', 'BNB', 'ADA']
